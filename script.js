@@ -161,7 +161,7 @@ class ItBook extends{
     }
 }
 
-//Aqui delclaramos coomo no anterior,
+//Aqui declaramos como no anterior,
 let iTbook = new ItBook('Algoritmos para viver', 'Brian', 500, 'Algoritmos')
 //Aqui usamos uma operação que foi herdada de Book e não declarada aqui
 console.log(firstBook.read())
